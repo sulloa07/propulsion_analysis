@@ -1,0 +1,35 @@
+Sensor Physical Channel ,Sensor Name ,Scaling Equation,Resulting Units
+cDAQ1Mod1/ai0,Top Ox Tank ,x*100,psi 
+cDAQ1Mod1/ai1,Bottom Ox Tank ,x*100,psi 
+cDAQ1Mod1/ai2,Top Fuel Tank ,x*150,psi 
+cDAQ1Mod1/ai3,Air Pressure,x*150,
+cDAQ1Mod1/ai4,Fuel Engine Inlet ,x*100,psi 
+cDAQ1Mod1/ai5,LOX Engine Inlet ,x*100,psi 
+cDAQ1Mod1/ai6,Fuel Tank Outlet ,x*150,psi 
+cDAQ1Mod1/ai7,Ox Tank Outlet ,x*100,psi 
+cDAQ1Mod1/ai21,Chamber Top,x*100,psi 
+cDAQ1Mod1/ai22,Chamber Left ,x*100,psi 
+cDAQ1Mod1/ai23,Chamber Right ,x*100,psi 
+cDAQ1Mod1/ai28,Chamber Bottom ,x*100,psi 
+cDAQ1Mod1/ai29,Regen In 1,x*100,psi 
+cDAQ1Mod1/ai30,Regen In 2,x*100,psi 
+cDAQ1Mod1/ai31,Regen Out ,x*100,psi 
+cDAQ1Mod2/ai0,PNU Supply ,(x*1000)*62.5-250 ,psi 
+cDAQ1Mod2/ai1,Ox Supply ,(x*1000)*62.5-251,psi 
+cDAQ1Mod2/ai2,Fuel Supply ,(x*1000)*62.5-252,psi 
+cDAQ1Mod2/ai3,Ox Tank,(x*1000)*62.5-253,psi 
+cDAQ1Mod2/ai4,Fuel Tank ,(x*1000)*62.5-254,psi 
+cDAQ1Mod3/ai0,Regen In ,x,C
+cDAQ1Mod3/ai1,Regen Out ,x,C
+cDAQ1Mod3/ai2,T2,x,C
+cDAQ1Mod3/ai3,T3,x,C
+cDAQ1Mod3/ai4,T4,x,C
+cDAQ1Mod3/ai5,T5,x,C
+cDAQ1Mod3/ai6,T6,x,C
+cDAQ1Mod3/ai7,T7,x,C
+cDAQ1Mod3/ai8,T8,x,C
+cDAQ1Mod3/ai9,T9,x,C
+cDAQ1Mod3/ai10,T10,x,C
+cDAQ1Mod4/ai0,Thrust,x,lbf 
+cDAQ1Mod4/ai1,Ox Tank LC,x,lbf 
+cDAQ1Mod4/ai2,Fuel Tank LC,x,lbf 
