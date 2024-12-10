@@ -1,0 +1,4 @@
+Sensor Physical Channel ,Sensor Name ,Scaling Equation,Resulting Units
+cDAQ1Mod1/ai0,Flow Meter,2*x - 0.1,GPM
+cDAQ1Mod2/ai0,Post Orifice PT,(x*1000)*31.25-125,psi
+cDAQ1Mod2/ai1,Pre Orifice PT,(x*1000)*31.25-127,psi

@@ -3,3 +3,5 @@ numpy
 matplotlib
 scipy
 img2pdf
+xarray
+coolprop
